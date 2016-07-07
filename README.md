@@ -10,5 +10,6 @@ http://my.oschina.net/joshuazhan/blog/122539
 
 （1）命令模式 
 使用“:set nosmartindent”和“:set noautoindent”取消自动缩进，然后再粘贴即可。完成后再开启自动缩进“:set smartindent”和“:set autoindent”，以上命令都可使用简写，比如“:set si”，可通过Vim的帮助“:help smartindent”查看相应说明。
+
 （2）Paste模式
 Vim的编辑模式中，还有一个Paste模式，在该模式下，可将文本原本的粘贴到Vim中，以避免一些格式错误。通过“:set paste”和“:set nopaste”进入和退出该模式
